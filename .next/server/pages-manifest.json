@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/unified/connect-link": "pages/api/unified/connect-link.js",
+  "/api/unified/callback": "pages/api/unified/callback.js",
+  "/api/unified/quickbooks-account": "pages/api/unified/quickbooks-account.js"
+}
